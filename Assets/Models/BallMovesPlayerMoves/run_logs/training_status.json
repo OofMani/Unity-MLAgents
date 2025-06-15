@@ -1,0 +1,38 @@
+{
+    "GoToBall": {
+        "checkpoints": [
+            {
+                "steps": 499998,
+                "file_path": "results/BallMovesPlayerMoves/GoToBall/GoToBall-499998.onnx",
+                "reward": 0.9951865222623345,
+                "creation_time": 1749992707.520221,
+                "auxillary_file_paths": [
+                    "results/BallMovesPlayerMoves/GoToBall/GoToBall-499998.pt"
+                ]
+            },
+            {
+                "steps": 500004,
+                "file_path": "results/BallMovesPlayerMoves/GoToBall/GoToBall-500004.onnx",
+                "reward": 0.9951980792316927,
+                "creation_time": 1749992707.540843,
+                "auxillary_file_paths": [
+                    "results/BallMovesPlayerMoves/GoToBall/GoToBall-500004.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500004,
+            "file_path": "results/BallMovesPlayerMoves/GoToBall.onnx",
+            "reward": 0.9951980792316927,
+            "creation_time": 1749992707.540843,
+            "auxillary_file_paths": [
+                "results/BallMovesPlayerMoves/GoToBall/GoToBall-500004.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.7.1"
+    }
+}
